@@ -1,0 +1,78 @@
+Pianofall changelog.
+
+v0.4.3
+"Open source release"
+2021.12.13
+
+v0.4.2
+It was about 5 years ago, I don't remember the details.
+
+
+v0.4.1
+"Pianofail fix"
+2017.05.04
+
+--Fixed:
+- Options menu and MIDI devices don't work without Visual Studio 2015 installed.
+
+
+v0.4
+"Device update"
+2017.04.29
+
+-- Added:
+- MIDI device support.
+- Keyboard input.
+- Sustain pedal and NoteOff events in build-in audio processor.
+- Options menu.
+- Unity Analytics.
+- Readme for Linux.
+- Wav audio output.
+
+-- Improved:
+- Prerender mode performance. Especially on multicore CPU and SSD.
+- Build-in audio processor polyphony. Now each midi channel on each track has its own 128-note processor.
+- Camera can now be moved with arrow keys.
+
+-- Fixed:
+- Bug 7: Incorrect resolution in fullscreen.
+- Bug 10: Closing game when playing midi causes crash.
+
+-- Resolved:
+- Task 5: In "Esc" rename "Exit" button to "Main menu" and add "Exit" button what closes the game.
+- Task 8: Increase poliphony.
+- Proposal 24: Ubuntu need not covered in readme.
+
+
+v0.3
+"GUI update"
+2017.01.26
+
+-- Added:
+- Main menu.
+- Preset menu. Editing, saving, loading.
+- File, folder and color dialog windows (Mono).
+- Micro menu (Esc).
+- Color mode: TrackChannelRandomHue.
+- Ability to move notes and floor with left mouse button.
+- Progress percentage in Audio mode.
+
+
+v0.2 
+"Color update"
+
+-- Added:
+- Configurable notes color modes: BwColor, RainbowColor, RandomHue, ChannelRGB.
+- Configurable background color.
+- Configurable floor color.
+- Ability to move, rotate and scale the floor.
+- Changelog :)
+
+-- Improved:
+- Soundfonts complemented with full 128 note samples (instead of old 88).
+- Fixed camera roll and pitch clamp.
+- Fixed percussion being played as piano in realtime mode.
+
+
+v0.1
+Initial alpha release.

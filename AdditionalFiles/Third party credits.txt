@@ -1,0 +1,134 @@
+***********************************************************************************************
+
+C# MIDI Toolkit
+http://www.codeproject.com/Articles/6228/C-MIDI-Toolkit
+License: MIT
+Copyright (c) 2005 Leslie Sanford
+
+***********************************************************************************************
+
+Newtonsoft.Json
+https://github.com/JamesNK/Newtonsoft.Json
+License: MIT
+Copyright (c) 2007 James Newton-King
+
+***********************************************************************************************
+
+Mono.Options
+https://github.com/mono/mono/blob/master/mcs/class/Mono.Options/Mono.Options/Options.cs
+License: MIT
+Copyright (C) 2008 Novell (http://www.novell.com)
+Copyright (C) 2009 Federico Di Gregorio.
+Copyright (C) 2012 Xamarin Inc (http://www.xamarin.com)
+
+***********************************************************************************************
+
+Thread Timer for C# MIDI Toolkit
+https://github.com/tebjan/Sanford.Multimedia.Midi/blob/master/Source/Sanford.Multimedia.Timers/ThreadTimer.cs
+License: MIT
+Copyright (c) 2015 Andreas Grimme
+
+***********************************************************************************************
+
+managed-midi
+https://github.com/atsushieno/managed-midi
+License: MIT
+Copyright (c) 2010 Atsushi Eno
+
+***********************************************************************************************
+
+Pingu
+https://github.com/bojanrajkovic/pingu
+License: MIT
+Copyright (c) 2016 Bojan Rajkovic
+
+***********************************************************************************************
+
+HSV Color Picker
+https://github.com/judah4/HSV-Color-Picker-Unity
+License: MIT
+Copyright (c) 2016 Judah Perez
+
+***********************************************************************************************
+
+Unity Simple File Browser
+https://github.com/yasirkula/UnitySimpleFileBrowser
+License: MIT
+Copyright (c) 2016 Süleyman Yasir KULA
+
+***********************************************************************************************
+
+RtMidi
+https://github.com/thestk/rtmidi
+
+    Copyright (c) 2003-2016 Gary P. Scavone
+
+    Permission is hereby granted, free of charge, to any person
+    obtaining a copy of this software and associated documentation files
+    (the "Software"), to deal in the Software without restriction,
+    including without limitation the rights to use, copy, modify, merge,
+    publish, distribute, sublicense, and/or sell copies of the Software,
+    and to permit persons to whom the Software is furnished to do so,
+    subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be
+    included in all copies or substantial portions of the Software.
+
+    Any person wishing to distribute modifications to the Software is
+    asked to send the modifications to the original developer so that
+    they can be incorporated into the canonical version.  This is,
+    however, not a binding provision of this license.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+    IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
+    ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+    CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+***********************************************************************************************
+
+Arachno SoundFont (Grand Piano)
+http://www.arachnosoft.com/main/soundfont.php
+Credits: http://www.arachnosoft.com/main/soundfont.php?documentation&embedded=true#copyright
+
+***********************************************************************************************
+
+Keppy's Steinway Piano by KaleidonKep99
+http://keppystudios.com/kspproject.html
+Archive: http://web.archive.org/web/20150910003452/http://keppystudios.com/kspproject.html
+License: Creative Commons Attribution 4.0 International License
+Modifications: 
+KSP - Grand Piano (Black MIDIs) was re-rendered to separate samples.
+
+New location (licence is different here): https://github.com/KaleidonKep99/Keppy-Steinway-Piano
+
+Creative Commons Attribution 4.0 International License link:
+http://creativecommons.org/licenses/by/4.0/legalcode
+
+***********************************************************************************************
+***********************************************************************************************
+
+MIT licence content:
+The MIT License (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy 
+of this software and associated documentation files (the "Software"), to 
+deal in the Software without restriction, including without limitation the 
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or 
+sell copies of the Software, and to permit persons to whom the Software is 
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in 
+all copies or substantial portions of the Software. 
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+THE SOFTWARE.
+
+***********************************************************************************************

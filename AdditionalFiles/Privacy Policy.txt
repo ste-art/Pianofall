@@ -1,0 +1,21 @@
+Pianofall uses Unity Analytics by Unity Technologies.
+Read third-party Unity privacy policy here: https://unity3d.com/legal/privacy-policy
+
+In addition to data collected by Unity Analytics (read Unity privacy policy for details),
+Pianofall collects anonymous data about in-game player activities.
+The data includes, but not limited to:
+1. Pianofall version.
+2. Performance (render time and framerate).
+3. Settings (Resolution, color config, block limit, etc)
+4. Connected MIDI device names.
+5. Played track names.
+6. Note count.
+7. Session time.
+
+Pianofall does NOT collect personal data like account name, nickname, email, gender, age, etc.
+All collected data is strictly anonymous and could not be used to identify users.
+
+Collected data will be used to improve performance, stability and device compatibility.
+Pianofall will NOT share or sell the data to third-party companies or persons.
+However Pianofall gives no warranty over data usage by Unity Technologies.
+

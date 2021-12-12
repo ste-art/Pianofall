@@ -21,12 +21,3 @@ Pianofall is a midi player made with Unity.
 <video width="640" height="360" autoplay loop>
   <source type="video/mp4" src="pf3.mp4">
 </video>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R7J22V21L9"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-R7J22V21L9');
-</script>

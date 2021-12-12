@@ -1,6 +1,6 @@
 # Pianofall
 
-Pianofall is midi player made with Unity.  
+Pianofall is a midi player made with Unity.  
 [Download the latest release](https://github.com/ste-art/Pianofall/releases) or [view sources on GitHub](https://github.com/ste-art/Pianofall).
 
 

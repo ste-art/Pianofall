@@ -6,7 +6,7 @@ Pianofall is a midi player with physics made with Unity.
 
 ## Download
 
-Get the latest bianries from [Releases](https://github.com/ste-art/Pianofall/releases) page.
+Get the latest binaries from [Releases](https://github.com/ste-art/Pianofall/releases) page.
 
 ## Build
 
